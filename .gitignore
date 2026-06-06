@@ -27,3 +27,4 @@ Thumbs.db
 # Reports / generated files
 *.pdf
 backend/generated_reports/
+#end
